@@ -17,13 +17,15 @@ button a{
 }
 
 h3 {
-  margin-bottom: 0%;
-  margin-top: 5%;
-  text-align: center;
+  width: 100%;
+    margin-bottom: 0%;
+    margin-top: 5%;
+    text-align: center;
 }
 
 body {
-  font-family: 'Segoe UI', sans-serif;
+  font-family: "Kanit", sans-serif;
+  font-style: normal;
 }
 
 .welcome {
@@ -87,6 +89,8 @@ fieldset {
   margin-top: 1%;
 }
 
+
+
 fieldset legend {
   color: #b45f06;
 }
@@ -129,3 +133,11 @@ flex: auto;
   font-size: 0.9em;
   color: #666;
 }
+
+.see {
+  margin-bottom: 5%;
+  margin-top: 20px;
+  text-decoration: none;
+  color: black;
+}
+
